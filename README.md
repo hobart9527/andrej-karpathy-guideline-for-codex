@@ -1,6 +1,6 @@
-# Andrej Karpathy Guideline For Codex
+# Andrej Karpathy Guideline For Codex and Claude Code
 
-Behavioral guidelines for Codex, adapted from Andrej Karpathy's observations about common LLM coding failure modes.
+Behavioral guidelines for Codex and Claude Code, adapted from Andrej Karpathy's observations about common LLM coding failure modes.
 
 This repository packages the ideas in a Codex-native form by centering them around workspace instruction files such as `AGENTS.md` and `CLAUDE.md`.
 
